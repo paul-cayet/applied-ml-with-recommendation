@@ -40,7 +40,7 @@ def get_scores(text_body, categories):
         read_count = body_part.count('✅')
         total = read_count+unread_count
         # print(body_part)
-        scores[category] = f'{100*read_count/total:.0f}% ({read_count}/{total})'
+        scores[category] = f'**{100*read_count/total:.0f}%** ({read_count}/{total})'
     return scores
 
 def get_unread_papers(text_body, categories):
@@ -76,10 +76,10 @@ def update_introduction(text_introduction, categories, scores, unread_papers):
     toc_splitter = "**Table of Contents**"
     table_of_contents = toc_splitter+text_introduction.split(toc_splitter, maxsplit=1)[1]
 
-    new_introduction = f"""{init_content}{rec_splitter}
+    new_introduction = f"""{init_content}{rec_splitter}\\
 {random_paper}
 
-{prog_splitter}
+{prog_splitter}\\
 {progress_text}
 {table_of_contents}"""
     return new_introduction
