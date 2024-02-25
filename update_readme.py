@@ -59,9 +59,8 @@ def update_introduction(text_introduction, categories, scores, unread_papers):
         if len(unread_papers[category])>0:
             recommended_paper = random.choice(unread_papers[category])
         progress_text += f", recommendation: {recommended_paper}"
-        if idx<len(categories):
-            progress_text += "\\\n"
-
+        progress_text += ("\\\n" if idx<len(categories)-1 else "\n")
+            
     random_paper = '**Congrats you read them all**'
     categories_to_choose_from = [category for category in categories if len(unread_papers[category])>0]
     if len(categories_to_choose_from)>0:

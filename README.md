@@ -215,12 +215,11 @@ Fails: **71%** (5/7), recommendation: [A British AI Tool to Predict Violent Crim
 ❌ [Machine Learning for Delivery Time Estimation](https://tech.olx.com/machine-learning-for-delivery-time-estimation-1-591c8df849a0) `OLX` `2023`\
 ❌ [Using Data Science to Retain Customers](https://medium.com/gousto-engineering-techbrunch/using-data-science-to-retain-customers-63f19a03a0b6) `Gousto` `2022`\
 ❌ [Sales Pipeline Management with Machine Learning: A Lightweight Two-Layer Ensemble Classifier Framework](https://medium.com/paypal-tech/sales-pipeline-management-with-machine-learning-15398bab913b) `PayPal` `2022`\
-❌ [How We Estimate Food Debarkation Time With 'Tensoba'](https://www.gojek.io/blog/food-debarkation-tensoba) `Gojek` `2022`\
+❌ [How We Estimate Food Debarkation Time With 'Tensoba'](https://www.gojek.io/blog/food-debarkation-tensoba) [medium](https://medium.com/gojekengineering/how-we-estimate-food-debarkation-time-with-tensoba-da05674cb758) `Gojek` `2022`\
 ❌ [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://www.uber.com/en-GB/blog/deepeta-how-uber-predicts-arrival-times/) `Uber` `2022`\
 ❌ [The journey to build an explainable AI-driven recommendation system](https://engineering.linkedin.com/blog/2022/the-journey-to-build-an-explainable-ai-driven-recommendation-sys) `Linkedin` `2022`\
 ❌ [Identifying High-Intent Buyers
 ](https://www.zillow.com/tech/identifying-high-intent-buyers/) `Zillow` `2022`\
-❌ [How We Estimate Food Debarkation Time With ‘Tensoba’](https://medium.com/gojekengineering/how-we-estimate-food-debarkation-time-with-tensoba-da05674cb758) `Gojek` `2022`\
 ❌ [Cross-Selling Optimization Using Deep Learning](https://medium.com/paypal-tech/a-deep-learning-based-approach-to-optimizing-actions-e1ae9d1df152) `PayPal` `2021`\
 ❌ [Optimal drop times using machine learning](https://blog.picnic.nl/the-trade-off-between-efficiency-and-being-on-time-optimizing-drop-times-using-machine-learning-d3f6fb1b0f31) `Picnic` `2020`\
 ❌ [Using Machine Learning to Determine Contact Accuracy Scores](https://engineering.zoominfo.com/machine-learning-accuracy-scores) `Zoominfo` `2019`
@@ -239,7 +238,6 @@ Fails: **71%** (5/7), recommendation: [A British AI Tool to Predict Violent Crim
 ❌ [The history of Amazon’s forecasting algorithm](https://www.amazon.science/latest-news/the-history-of-amazons-forecasting-algorithm) `Amazon` `2021`\
 ❌ [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/) `Uber` `2022`\
 ❌ [Forecasting Grubhub Order Volume At Scale](https://bytes.grubhub.com/forecasting-grubhub-order-volume-at-scale-a966c2f901d2) `Grubhub` `2022`\
-❌ [Causal Forecasting at Lyft (Part 1)](https://eng.lyft.com/causal-forecasting-at-lyft-part-1-14cca6ff3d6d) `Lyft` `2022`\
 ❌ [Characterizing and Forecasting User Engagement with In-app Action Graph: A Case Study of Snapchat](https://arxiv.org/abs/1906.00355)\
 ❌ [From Known to Unknown: Knowledge-guided Transformer for Time-Series Sales Forecasting in Alibaba](https://arxiv.org/abs/2109.08381)\
 ❌ [Greykite: Deploying Flexible Forecasting at Scale at LinkedIn](https://arxiv.org/abs/2207.07788)\
@@ -251,7 +249,6 @@ Fails: **71%** (5/7), recommendation: [A British AI Tool to Predict Violent Crim
 ❌ [How DoorDash Improves Holiday Predictions via Cascade ML Approach](https://doordash.engineering/2023/08/31/how-doordash-improves-holiday-predictions-via-cascade-ml-approach/) `Doordash` `2023`\
 ❌ [How Instacart’s Item Availability Evolved Over the Pandemic](https://www.instacart.com/company/how-its-made/how-instacarts-item-availability-evolved-over-the-pandemic/) `Instacart` `2023`\
 ❌ [Instacart’s Item Availability Architecture: Solving for scale and consistency](https://tech.instacart.com/instacarts-item-availability-architecture-solving-for-scale-and-consistency-f5661acb20a6) `Instacart` `2023`\
-❌ [Forecasting Grubhub Order Volume At Scale](https://bytes.grubhub.com/forecasting-grubhub-order-volume-at-scale-a966c2f901d2) `Grubhub` `2022`\
 ❌ [Forecasting something that never happened: how we estimated past promotions profitability](https://medium.com/artefact-engineering-and-data-science/forecasting-something-that-never-happened-how-we-estimated-past-promotions-profitability-5f55cfa1d477) `Artefact` `2022`\
 ❌ [Building the Model Behind DoorDash’s Expansive Merchant Selection](https://doordash.engineering/2022/04/19/building-merchant-selection/) `Doordash` `2022`\
 ❌ [Causal Forecasting at Lyft (Part 1)](https://eng.lyft.com/causal-forecasting-at-lyft-part-1-14cca6ff3d6d) `Lyft` `2022`\
