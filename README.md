@@ -22,40 +22,43 @@ To update the progress and paper recommendation.
 Exact Duplicates were removed but there may be some remaining duplicates.
 
 **Recommended Paper**\
-[Multi-objective Hyper-parameter Optimization of Behavioral Song Embeddings](https://arxiv.org/abs/2208.12724) ([Paper](https://arxiv.org/pdf/2208.12724.pdf)) `Apple` `2022`
+[Preventing Abuse Using Unsupervised Learning](https://www.youtube.com/watch?v=sFRrFWYNAUI) `LinkedIn` `2020`
 
 **Progress**\
-Data Quality: **0%** (0/8), recommendation: [Data Validation for Machine Learning](https://research.google/pubs/pub47967/) ([Paper](https://mlsys.org/Conferences/2019/doc/2019/167.pdf)) `Google` `2019`\
-Data Engineering: **7%** (1/14), recommendation: [Zipline: Airbnb’s Machine Learning Data Management Platform](https://www.youtube.com/watch?v=Tg5VEMEsC-0) `Airbnb` `2018`\
-Data Discovery: **0%** (0/17), recommendation: [Apache Atlas: Data Goverance and Metadata Framework for Hadoop](https://atlas.apache.org/#/) ([Code](https://github.com/apache/atlas)) `Apache`\
-Feature Stores: **0%** (0/21), recommendation: [Optimal Feature Discovery: Better, Leaner Machine Learning Models Through Information Theory](https://eng.uber.com/optimal-feature-discovery-ml/) `Uber` `2021`\
-Classification: **0%** (0/30), recommendation: [Email Classification](https://slack.engineering/email-classification/) `Slack` `2021`\
-Regression: **10%** (2/21), recommendation: [Delivery-Date Prediction](https://www.aboutwayfair.com/careers/tech-blog/delivery-date-prediction) `Wayfair` `2023`\
-Forecasting: **0%** (0/33), recommendation: [Modeling the unseen](https://tech.instacart.com/modeling-the-unseen-6a51c9a02430) `Instacart` `2019`\
-Recommendation: **0%** (0/160), recommendation: [Using Machine Learning to Predict what File you Need Next (Part 2)](https://dropbox.tech/machine-learning/using-machine-learning-to-predict-what-file-you-need-next-part-2) `Dropbox` `2019`\
-Search & Ranking: **1%** (1/99), recommendation: [Building Airbnb Categories with ML & Human in the Loop](https://medium.com/airbnb-engineering/building-airbnb-categories-with-ml-human-in-the-loop-35b78a837725) `Airbnb` `2023`\
-Embeddings: **0%** (0/19), recommendation: [Personalized Store Feed with Vector Embeddings](https://doordash.engineering/2018/04/02/personalized-store-feed-with-vector-embeddings/) `DoorDash` `2018`\
-Natural Language Processing: **0%** (0/58), recommendation: [How Pinterest powers a healthy comment ecosystem with machine learning](https://medium.com/pinterest-engineering/how-pinterest-powers-a-healthy-comment-ecosystem-with-machine-learning-9e5c3414c8ad) `Pinterest` `2021`\
-Sequence Modelling: **0%** (0/11), recommendation: [Soft Frequency Capping for Improved Ad Click Prediction in Yahoo Gemini Native](https://arxiv.org/abs/2312.05052)\
-Computer Vision: **0%** (0/42), recommendation: [An Efficient Training Approach for Very Large Scale Face Recognition](https://arxiv.org/abs/2105.10375) ([Paper](https://arxiv.org/pdf/2105.10375)) `Alibaba` `2021`\
+Data Quality: **0%** (0/8), recommendation: [Data Management Challenges in Production Machine Learning](https://research.google/pubs/pub46178/) ([Paper](https://thodrek.github.io/CS839_spring18/papers/p1723-polyzotis.pdf)) `Google` `2017`\
+Data Engineering: **7%** (1/14), recommendation: [Sputnik: Airbnb’s Apache Spark Framework for Data Engineering](https://www.youtube.com/watch?v=BQumogSBsUw) `Airbnb` `2020`\
+Data Discovery: **0%** (0/17), recommendation: [Discovery and Consumption of Analytics Data at Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2016/discovery-and-consumption-of-analytics-data-at-twitter.html) `Twitter` `2016`\
+Feature Stores: **5%** (1/21), recommendation: [Open sourcing Feathr – LinkedIn’s feature store for productive machine learning](https://engineering.linkedin.com/blog/2022/open-sourcing-feathr---linkedin-s-feature-store-for-productive-m) `LinkedIn` `2022`\
+Classification: **0%** (0/30), recommendation: [Prediction of Advertiser Churn for Google AdWords](https://research.google/pubs/pub36678/) ([Paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/36678.pdf)) `Google` `2010`\
+Regression: **10%** (2/21), recommendation: [Optimal drop times using machine learning](https://blog.picnic.nl/the-trade-off-between-efficiency-and-being-on-time-optimizing-drop-times-using-machine-learning-d3f6fb1b0f31) `Picnic` `2020`\
+Forecasting: **3%** (1/33), recommendation: [Greykite: A flexible, intuitive, and fast forecasting library](https://engineering.linkedin.com/blog/2021/greykite--a-flexible--intuitive--and-fast-forecasting-library) `LinkedIn` `2021`\
+Recommendation: **0%** (0/160), recommendation: [ATBRG: Adaptive Target-Behavior Relational Graph Network for Effective Recommendation](https://arxiv.org/abs/2005.12002) ([Paper](https://arxiv.org/pdf/2005.12002.pdf)) `Alibaba` `2020`\
+Search & Ranking: **1%** (1/99), recommendation: [Feature Spotlight: Query Suggestions](https://www.algolia.com/blog/product/feature-spotlight-query-suggestions/) `Algolia` `2023`\
+Embeddings: **0%** (0/19), recommendation: [A Distributed Multi-GPU System for Large-Scale Node Embedding at Tencent](https://arxiv.org/abs/2005.13789)\
+Natural Language Processing: **0%** (0/58), recommendation: [How Duolingo uses AI in every part of its app](https://venturebeat.com/ai/how-duolingo-uses-ai-in-every-part-of-its-app/) `Duolingo` `2020`\
+Sequence Modelling: **0%** (0/11), recommendation: [PinnerFormer: Sequence Modeling for User Representation at Pinterest](https://arxiv.org/abs/2205.04507)
+\
+Computer Vision: **0%** (0/42), recommendation: [A snapshot of AI-powered reminiscing in Google Photos](https://medium.com/people-ai-research/a-snapshot-of-ai-powered-reminiscing-in-google-photos-5a05d2f2aa46) `Google` `2021`\
 Reinforcement Learning: **0%** (0/12), recommendation: [Productionizing Deep Reinforcement Learning with Spark and MLflow](https://www.youtube.com/watch?v=hy-w69zf4oo) `Zynga` `2020`\
-Anomaly Detection: **0%** (0/21), recommendation: [Detecting and Preventing Abuse on LinkedIn using Isolation Forests](https://engineering.linkedin.com/blog/2019/isolation-forest) ([Code](https://github.com/linkedin/isolation-forest)) `LinkedIn` `2019`\
-Graph: **0%** (0/16), recommendation: [How AWS uses graph neural networks to meet customer needs](https://www.amazon.science/blog/how-aws-uses-graph-neural-networks-to-meet-customer-needs) `Amazon` `2022`\
-Optimization: **0%** (0/53), recommendation: [Leveraging machine learning to find security vulnerabilities](https://github.blog/2022-02-17-leveraging-machine-learning-find-security-vulnerabilities/) `Github` `2022`\
-Information Extraction: **0%** (0/14), recommendation: [Ocelot: Scaling observational causal inference at LinkedIn](https://engineering.linkedin.com/blog/2022/ocelot--scaling-observational-causal-inference-at-linkedin) `Linkedin` `2022`\
-Weak Supervision: **0%** (0/4), recommendation: [Bootstrapping Conversational Agents with Weak Supervision](https://www.aaai.org/ojs/index.php/AAAI/article/view/5011) ([Paper](https://arxiv.org/pdf/1812.06176.pdf)) `IBM` `2019`\
-Generation: **0%** (0/20), recommendation: [From idea to reality: Elevating our customer support through generative AI](https://medium.com/vimeo-engineering-blog/from-idea-to-reality-elevating-our-customer-support-through-generative-ai-101a2c5ea680) `Vimeo` `2023`\
+Anomaly Detection: **0%** (0/21), recommendation: [Auto Content Moderation in C2C e-Commerce](https://www.usenix.org/conference/opml20/presentation/ueta) `Mercari` `2020`\
+Graph: **0%** (0/16), recommendation: [Retail Graph — Walmart’s Product Knowledge Graph](https://medium.com/walmartlabs/retail-graph-walmarts-product-knowledge-graph-6ef7357963bc) `Walmart` `2020`\
+Optimization: **0%** (0/53), recommendation: [Business Policy Experiments using Fractional Factorial Designs: Consumer Retention on DoorDash](https://arxiv.org/abs/2311.14698)\
+Information Extraction: **0%** (0/14), recommendation: [Deep Job Understanding at LinkedIn](https://arxiv.org/abs/2006.12425)\
+Weak Supervision: **0%** (0/4), recommendation: [HierCat: Hierarchical Query Categorization from Weakly Supervised Data at Facebook Marketplace](https://arxiv.org/abs/2302.10527)
+\
+Generation: **0%** (0/20), recommendation: [Deep Learned Super Resolution for Feature Film Production](https://graphics.pixar.com/library/SuperResolution/) ([Paper](https://graphics.pixar.com/library/SuperResolution/paper.pdf)) `Pixar` `2020`\
 Audio: **0%** (0/4), recommendation: [Improving On-Device Speech Recognition with VoiceFilter-Lite](https://ai.googleblog.com/2020/11/improving-on-device-speech-recognition.html) ([Paper](https://arxiv.org/pdf/2009.04323.pdf))`Google` `2020`\
-Privacy-Preserving Machine Learning: **0%** (0/7), recommendation: [Federated Learning with Formal Differential Privacy Guarantees](https://ai.googleblog.com/2022/02/federated-learning-with-formal.html) ([Paper](https://arxiv.org/pdf/2103.00039)) `Google` `2022`\
-Validation and A/B Testing: **0%** (0/52), recommendation: [Scaling Airbnb’s Experimentation Platform](https://medium.com/airbnb-engineering/https-medium-com-jonathan-parks-scaling-erf-23fd17c91166) `Airbnb` `2017`\
+Privacy-Preserving Machine Learning: **0%** (0/7), recommendation: [LinkedIn Salary: A System for Secure Collection and Presentation of Structured Compensation Insights to Job Seekers](https://arxiv.org/abs/1705.06976)\
+Validation and A/B Testing: **0%** (0/52), recommendation: [Modeling Conversion Rates and Saving Millions Using Kaplan-Meier and Gamma Distributions](https://better.engineering/modeling-conversion-rates-and-saving-millions-of-dollars-using-kaplan-meier-and-gamma-distributions/) ([Code](https://github.com/better/convoys)) `Better` `2019`\
 Model Management: **0%** (0/7), recommendation: [Dealing with Train-serve Skew in Real-time ML Models: A Short Guide](https://building.nubank.com.br/dealing-with-train-serve-skew-in-real-time-ml-models-a-short-guide/) `Nubank` `2023`\
-Efficiency: **0%** (0/3), recommendation: [GrokNet: Unified Computer Vision Model Trunk and Embeddings For Commerce](https://ai.facebook.com/research/publications/groknet-unified-computer-vision-model-trunk-and-embeddings-for-commerce/) ([Paper](https://scontent-sea1-1.xx.fbcdn.net/v/t39.8562-6/99353320_565175057533429_3886205100842024960_n.pdf?_nc_cat=110&_nc_sid=ae5e01&_nc_ohc=WQBaZy1gnmUAX8Ecqtt&_nc_ht=scontent-sea1-1.xx&oh=cab2f11dd9154d817149cb73e8b692a8&oe=5F5A3778)) `Facebook` `2020`\
-Ethics: **0%** (0/7), recommendation: [LiFT: A Scalable Framework for Measuring Fairness in ML Applications](https://engineering.linkedin.com/blog/2020/lift-addressing-bias-in-large-scale-ai-applications) ([Paper](https://arxiv.org/pdf/2008.07433.pdf)) `LinkedIn` `2020`\
+Efficiency: **0%** (0/3), recommendation: [Permute, Quantize, and Fine-tune: Efficient Compression of Neural Networks](https://arxiv.org/abs/2010.15703) ([Paper](https://arxiv.org/pdf/2010.15703.pdf)) `Uber` `2021`
+\
+Ethics: **0%** (0/7), recommendation: [Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search](https://arxiv.org/abs/1905.01989)\
 Infra: **0%** (0/2), recommendation: [Reengineering Facebook AI’s Deep Learning Platforms for Interoperability](https://ai.facebook.com/blog/reengineering-facebook-ais-deep-learning-platforms-for-interoperability) `Facebook` `2020`\
-MLOps Platforms: **0%** (0/27), recommendation: [The Magic of Merlin: Shopify's New Machine Learning Platform](https://shopify.engineering/merlin-shopify-machine-learning-platform) `Shopify` `2022`\
-Practices: **0%** (0/19), recommendation: [Machine Learning in Production: The Booking.com Approach](https://booking.ai/https-booking-ai-machine-learning-production-3ee8fe943c70) `Booking` `2019`\
-Team Structure: **0%** (0/9), recommendation: [Beware the Data Science Pin Factory: The Power of the Full-Stack Data Science Generalist](https://multithreaded.stitchfix.com/blog/2019/03/11/FullStackDS-Generalists/) `Stitch Fix` `2019`\
-Fails: **71%** (5/7), recommendation: [A British AI Tool to Predict Violent Crime Is Too Flawed to Use](https://www.wired.co.uk/article/police-violence-prediction-ndas) `United Kingdom` `2020`
+MLOps Platforms: **0%** (0/27), recommendation: [LyftLearn: ML Model Training Infrastructure built on Kubernetes](https://eng.lyft.com/lyftlearn-ml-model-training-infrastructure-built-on-kubernetes-aef8218842bb) `Lyft` `2021`\
+Practices: **0%** (0/19), recommendation: [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) `Google` `2018`\
+Team Structure: **0%** (0/9), recommendation: [Building a Data Team at a Mid-stage Startup: A Short Story](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html) `Erikbern` `2021`\
+Fails: **71%** (5/7), recommendation: [An Algorithm That ‘Predicts’ Criminality Based on a Face Sparks a Furor](https://www.wired.com/story/algorithm-predicts-criminality-based-face-sparks-furor/) `Harrisburg University` `2020`
 
 **Table of Contents**
 
@@ -148,7 +151,7 @@ Fails: **71%** (5/7), recommendation: [A British AI Tool to Predict Violent Crim
 ❌ [Building a Feature Store](https://nlathia.github.io/2020/12/Building-a-feature-store.html) `Monzo Bank` `2020`\
 ❌ [Butterfree: A Spark-based Framework for Feature Store Building](https://medium.com/quintoandar-tech-blog/butterfree-a-spark-based-framework-for-feature-store-building-48c3640522c7) ([Code](https://github.com/quintoandar/butterfree)) `QuintoAndar` `2020`\
 ❌ [Building Riviera: A Declarative Real-Time Feature Engineering Framework](https://doordash.engineering/2021/03/04/building-a-declarative-real-time-feature-engineering-framework/) `DoorDash` `2021`\
-❌ [Optimal Feature Discovery: Better, Leaner Machine Learning Models Through Information Theory](https://eng.uber.com/optimal-feature-discovery-ml/) `Uber` `2021`\
+✅ [Optimal Feature Discovery: Better, Leaner Machine Learning Models Through Information Theory](https://eng.uber.com/optimal-feature-discovery-ml/) `Uber` `2021`\
 ❌ [ML Feature Serving Infrastructure at Lyft](https://eng.lyft.com/ml-feature-serving-infrastructure-at-lyft-d30bf2d3c32a) `Lyft` `2021`\
 ❌ [Near real-time features for near real-time personalization](https://engineering.linkedin.com/blog/2022/near-real-time-features-for-near-real-time-personalization) `LinkedIn` `2022`\
 ❌ [Building the Model Behind DoorDash’s Expansive Merchant Selection](https://doordash.engineering/2022/04/19/building-merchant-selection/) `DoorDash` `2022`\
@@ -243,7 +246,7 @@ Fails: **71%** (5/7), recommendation: [A British AI Tool to Predict Violent Crim
 ❌ [Managing Supply and Demand Balance Through Machine Learning](https://doordash.engineering/2021/06/29/managing-supply-and-demand-balance-through-machine-learning/) `Doordash` `2021`\
 ❌ [Finding the sweet spot](https://careers.ocadogroup.com/blogs/careers-blogs/our-technologies/finding-the-sweet-spot) `Ocado ` `2021`\
 ❌ [Marketplace Forecasting: Sales or Demand? Why not both? Let’s find out!](https://medium.com/mercadolibre-tech/global-time-series-forecasting-models-for-item-level-demand-and-sales-forecasts-in-our-marketplace-aee2956957ae) `Mercado Libre` `2021`\
-❌ [Modeling the unseen](https://tech.instacart.com/modeling-the-unseen-6a51c9a02430) `Instacart` `2019`\
+✅ [Modeling the unseen](https://tech.instacart.com/modeling-the-unseen-6a51c9a02430) `Instacart` `2019`\
 ❌ [Making cohort-based long-term forecasts at Lyft](https://eng.lyft.com/making-long-term-forecasts-at-lyft-fac475b3ba52) `Lyft` `2019`\
 ❌ [Predicting the real-time availability of 200 million grocery items](https://tech.instacart.com/predicting-real-time-availability-of-200-million-grocery-items-in-us-canada-stores-61f43a16eafe) `Instacart` `2018`
 
