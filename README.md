@@ -212,7 +212,7 @@ Fails: **71%** (5/7), recommendation: [An Algorithm That ‘Predicts’ Criminal
 ❌ [Identifying High-Intent Buyers
 ](https://www.zillow.com/tech/identifying-high-intent-buyers/) `Zillow` `2022`\
 ❌ [Cross-Selling Optimization Using Deep Learning](https://medium.com/paypal-tech/a-deep-learning-based-approach-to-optimizing-actions-e1ae9d1df152) `PayPal` `2021`\
-❌ [Optimal drop times using machine learning](https://blog.picnic.nl/the-trade-off-between-efficiency-and-being-on-time-optimizing-drop-times-using-machine-learning-d3f6fb1b0f31) `Picnic` `2020`\
+✅ [Optimal drop times using machine learning](https://blog.picnic.nl/the-trade-off-between-efficiency-and-being-on-time-optimizing-drop-times-using-machine-learning-d3f6fb1b0f31) `Picnic` `2020`\
 ❌ [Using Machine Learning to Determine Contact Accuracy Scores](https://engineering.zoominfo.com/machine-learning-accuracy-scores) `Zoominfo` `2019`
 
 ## Forecasting
@@ -672,9 +672,8 @@ Conversation Summaries in Google Chat](https://ai.googleblog.com/2022/11/convers
 
 ## Anomaly Detection
 ❌ [Detecting Performance Anomalies in External Firmware Deployments](https://netflixtechblog.com/detecting-performance-anomalies-in-external-firmware-deployments-ed41b1bfcf46) `Netflix` `2019`\
-❌ [Detecting and Preventing Abuse on LinkedIn using Isolation Forests](https://engineering.linkedin.com/blog/2019/isolation-forest) ([Code](https://github.com/linkedin/isolation-forest)) `LinkedIn` `2019`\
+✅ [Detecting and Preventing Abuse on LinkedIn using Isolation Forests](https://engineering.linkedin.com/blog/2019/isolation-forest) [video](https://www.youtube.com/watch?v=sFRrFWYNAUI) ([Code](https://github.com/linkedin/isolation-forest)) `LinkedIn` `2019`\
 ❌ [Deep Anomaly Detection with Spark and Tensorflow](https://databricks.com/session_eu19/deep-anomaly-detection-from-research-to-production-leveraging-spark-and-tensorflow) [(Hopsworks Video](https://www.youtube.com/watch?v=TgXVU8DSyCQ)) `Swedbank`, `Hopsworks` `2019`\
-❌ [Preventing Abuse Using Unsupervised Learning](https://www.youtube.com/watch?v=sFRrFWYNAUI) `LinkedIn` `2020`\
 ❌ [The Technology Behind Fighting Harassment on LinkedIn](https://engineering.linkedin.com/blog/2020/fighting-harassment) `LinkedIn` `2020`\
 ❌ [Uncovering Insurance Fraud Conspiracy with Network Learning](https://arxiv.org/abs/2002.12789) ([Paper](https://arxiv.org/pdf/2002.12789.pdf)) `Ant Financial` `2020`\
 ❌ [How Does Spam Protection Work on Stack Exchange?](https://stackoverflow.blog/2020/06/25/how-does-spam-protection-work-on-stack-exchange/) `Stack Exchange` `2020`\
@@ -936,7 +935,8 @@ Conversation Summaries in Google Chat](https://ai.googleblog.com/2022/11/convers
 ## Practices
 ❌ [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/abs/1206.5533) ([Paper](https://arxiv.org/pdf/1206.5533.pdf)) `Yoshua Bengio` `2012`\
 ❌ [Machine Learning: The High Interest Credit Card of Technical Debt](https://research.google/pubs/pub43146/) ([Paper](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf)) ([Paper](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)) `Google` `2014`\
-❌ [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) `Google` `2018`\
+❌ [Good Data Analysis](https://developers.google.com/machine-learning/guides/good-data-analysis) `Google` `2019`\
+✅ [Rules of Machine Learning: Best Practices for ML Engineering](https://developers.google.com/machine-learning/guides/rules-of-ml) `Google` `2018`\
 ❌ [On Challenges in Machine Learning Model Management](http://sites.computer.org/debull/A18dec/p5.pdf) `Amazon` `2018`\
 ❌ [Machine Learning in Production: The Booking.com Approach](https://booking.ai/https-booking-ai-machine-learning-production-3ee8fe943c70) `Booking` `2019`\
 ❌ [150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com](https://booking.ai/150-successful-machine-learning-models-6-lessons-learned-at-booking-com-681e09107bec) ([Paper](https://dl.acm.org/doi/pdf/10.1145/3292500.3330744)) `Booking` `2019`\
